@@ -1,0 +1,4 @@
+C:\Users\a.de.souza.maciel\workspace\elevadorProject\elevadorProject\obj\Release\net5.0\elevadorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.de.souza.maciel\workspace\elevadorProject\elevadorProject\obj\Release\net5.0\elevadorProject.AssemblyInfoInputs.cache
+C:\Users\a.de.souza.maciel\workspace\elevadorProject\elevadorProject\obj\Release\net5.0\elevadorProject.AssemblyInfo.cs
+C:\Users\a.de.souza.maciel\workspace\elevadorProject\elevadorProject\obj\Release\net5.0\elevadorProject.csproj.CoreCompileInputs.cache
